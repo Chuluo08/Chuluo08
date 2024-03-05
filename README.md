@@ -28,7 +28,7 @@ Love programming and technology. I am still a self-taught high school student no
 I am a high school student, but I have been self-learning at home since graduating from junior high school.<br>
 Perhaps because of my interest in computers, I soon entered the basics of computer science through HTML+CSS+JavaScript.
 I'm not proud of anything, because I know there are many people who are better than me. From then on, I became obsessed with the path of pursuing technology.<br>
-I have been self-learning for almost 2 years now, and the progress of learning may be a bit slow because my lifestyle is slow paced, so I still have a lot to learn
+I have been self-learning for almost 2 years now, and the progress of learning may be a bit slow because my lifestyle is slow paced, so I still have a lot to learn.
 
 
 ### Github Activation
