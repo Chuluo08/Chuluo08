@@ -19,7 +19,7 @@
 
 ### 开源项目
 
-[![](https://github.com/Chuluo08/Chuluo08/wiki)](https://github.com/Chuluo08/knwlde)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=Chuluo08&repo=knwlde)](https://github.com/Chuluo08/knwlde)
 <br><br><br>
 
 ### Github 活跃度
