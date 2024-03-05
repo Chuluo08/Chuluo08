@@ -1,8 +1,8 @@
 <img align="right" src="https://count.getloli.com/get/@:Chuluo08?theme=rule34">
 
-## 全栈工程师—天平
+## Full stack engineer - Tianping
 
-热爱编程、热爱技术。现在还是一个自学的高中生。喜欢参与一些开源项目的讨论。
+Love programming and technology. I am still a self-taught high school student now. Likes to explore and discover.
 
 ### **技术栈:**
 
