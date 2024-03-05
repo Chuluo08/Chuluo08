@@ -22,6 +22,10 @@ Love programming and technology. I am still a self-taught high school student no
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Chuluo08&repo=knwlde)](https://github.com/Chuluo08/knwlde)
 <br><br><br>
 
+
+### Self-description
+
+
 ### Github Activation
 
 [![](https://activity-graph.herokuapp.com/graph?username=Chuluo08&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
