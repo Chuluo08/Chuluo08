@@ -19,7 +19,7 @@
 
 ### 开源项目
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Minori-ty&repo=mp4To4K-rust)](https://github.com/Chuluo08/knwlde)
+[![](https://github.com/Chuluo08/knwlde)](https://github.com/Chuluo08/knwlde)
 <br><br><br>
 
 ### Github 活跃度
