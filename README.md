@@ -25,8 +25,8 @@ Love programming and technology. I am still a self-taught high school student no
 
 ### Self-description：
 
-I am a high school student, but I have been self-learning at home since graduating from junior high school
-Perhaps because of my interest in computers, I soon entered the basics of computer science through HTML+CSS+JavaScript
+I am a high school student, but I have been self-learning at home since graduating from junior high school.</ br>
+Perhaps because of my interest in computers, I soon entered the basics of computer science through HTML+CSS+JavaScript.
 
 
 ### Github Activation
