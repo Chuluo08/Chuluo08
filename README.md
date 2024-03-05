@@ -2,8 +2,7 @@
 
 ## Full stack engineer - Tianping
 
-Love programming and technology. I am still a self-taught high school student now. Likes to explore and discover.<br>
-Please communicate with me: WeChat:yuxuanyao23
+Love programming and technology. I am still a self-taught high school student now. Likes to explore and discover.
 
 ### **technology stack:**
 
