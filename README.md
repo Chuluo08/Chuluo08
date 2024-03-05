@@ -4,7 +4,7 @@
 
 Love programming and technology. I am still a self-taught high school student now. Likes to explore and discover.
 
-### **技术栈:**
+### **technology stack:**
 
 <a href="https://v3.cn.vuejs.org"><code><img height="20" src="./images/vue.png"></code></a>
 <a href="https://reactjs.org/"><code><img height="20" src="./images/react.svg"></code></a>
@@ -17,12 +17,12 @@ Love programming and technology. I am still a self-taught high school student no
 <a href="https://go.dev/"><code><img height="20" src="./images/golang.png"></code></a>
 <a href="https://www.docker.com"><code><img height="20" src="./images/docker.png"></code></a>
 
-### 开源项目
+### Open source projects
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Chuluo08&repo=knwlde)](https://github.com/Chuluo08/knwlde)
 <br><br><br>
 
-### Github 活跃度
+### Github Activation
 
 [![](https://activity-graph.herokuapp.com/graph?username=Chuluo08&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?username=Chuluo08&show_icons=true&theme=vue)
