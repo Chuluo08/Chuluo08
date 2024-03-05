@@ -19,7 +19,7 @@
 
 ### 开源项目
 
-[![](https://github.com/Chuluo08/knwlde)](https://github.com/Chuluo08/knwlde)
+[![](https://github.com/Chuluo08/knwlde.git)](https://github.com/Chuluo08/knwlde)
 <br><br><br>
 
 ### Github 活跃度
