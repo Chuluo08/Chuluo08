@@ -20,11 +20,9 @@
 
 ### Self-description：
 
-I am a high school student, but I have been self-learning at home since graduating from junior high school.<br>
-Perhaps because of my interest in computers, I soon entered the basics of computer science through HTML+CSS+JavaScript.
-I'm not proud of anything, because I know there are many people who are better than me. From then on, I became obsessed with the path of pursuing technology.<br>
-I have been self-learning for almost 2 years now, and the progress of learning may be a bit slow because my lifestyle is slow paced, so I still have a lot to learn.
-
+我是一名高中生，但从初中毕业后，我一直在家自学。
+也许是因为我对计算机的兴趣，我很快就通过HTML+CSS+JavaScript进入了计算机科学的基础知识。 我不为任何事情感到骄傲，因为我知道有很多人比我更好。从那时起，我开始痴迷于追求技术的道路。
+我已经自学了将近2年了，由于我的生活方式节奏缓慢，学习进度可能有点慢，所以我还有很多东西要学。
 
 ### Github Activation
 
