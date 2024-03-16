@@ -24,7 +24,7 @@
 也许是因为我对计算机的兴趣，我很快就通过HTML+CSS+JavaScript进入了计算机科学的基础知识。 我不为任何事情感到骄傲，因为我知道有很多人比我更好。从那时起，我开始痴迷于追求技术的道路。<br>
 我已经自学了将近2年了，由于我的生活方式节奏缓慢，学习进度可能有点慢，所以我还有很多东西要学。<br>
 
-### Github Activation
+### Github 激活
 
 [![](https://activity-graph.herokuapp.com/graph?username=Chuluo08&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?username=Chuluo08&show_icons=true&theme=vue)
