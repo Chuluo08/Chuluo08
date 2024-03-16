@@ -1,6 +1,6 @@
 <img align="right" src="https://count.getloli.com/get/@:Chuluo08?theme=rule34">
 
-## Full stack engineer - Tianping
+## 全栈工程师 - 天平
 
 Love programming and technology. I am still a self-taught high school student now. Likes to explore and discover.
 
