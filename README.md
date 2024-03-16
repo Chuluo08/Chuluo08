@@ -17,11 +17,6 @@
 <a href="https://go.dev/"><code><img height="20" src="./images/golang.png"></code></a>
 <a href="https://www.docker.com"><code><img height="20" src="./images/docker.png"></code></a>
 
-### Open source projects
-
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Chuluo08&repo=knwlde)](https://github.com/Chuluo08/knwlde)
-<br><br><br>
-
 
 ### Self-description：
 
