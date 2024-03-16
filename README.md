@@ -2,7 +2,7 @@
 
 ## 全栈工程师 - 天平
 
-Love programming and technology. I am still a self-taught high school student now. Likes to explore and discover.
+热爱编程和技术。我现在仍然是一个自学成才的高中生。喜欢探索和发现。
 
 ### **technology stack:**
 
